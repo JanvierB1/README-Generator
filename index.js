@@ -44,7 +44,7 @@ inquirer
     {
       type: 'input',
       name: 'usage',
-      message: 'Give a brief description of how your project can be used: ',
+      message: 'Write a description of how your project can be used: ',
     },
     {
       type: 'input',
