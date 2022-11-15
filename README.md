@@ -2,7 +2,7 @@
 # ReadMe-Generator
 
 ## Description
-This project was my first real challenge using Node.JS and NPM dependencies. I made this fairly simple program to generate a ReadMe template that a user would simple type there ReadMe and it wass all layout and pretty this will easily cut time while creating new projects since the user will not have to start from scratch. This app is not deployed therefore look at the screenshots and video tutorial for instruction on how to use it!!!
+This project was my first real challenge using Node.JS and NPM dependencies. I made this fairly simple program to generate a ReadMe that a user can easily use. This will easily cut time while creating new projects since the user will not have to start from scratch. This app is not deployed therefore look at the screenshots and video tutorial for instruction on how to use it!!!
 ___
 ## Table of Contents
 * [Installation](#installation)
@@ -43,7 +43,7 @@ Once done answering all question you should see a message saying that the ReadMe
 
 ![](./images/Screenshot%202022-11-14%20175942.png)
 
-view your created Readme on the "generatedReadMe" folder
+View your created Readme on the "generatedReadMe" folder
 
 ![](./images/Screenshot%202022-11-14%20180102.png)
 
