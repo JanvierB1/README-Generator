@@ -66,4 +66,4 @@ node index.js
 ```
 ___
 ## Questions
-If you have any questions feel free tp contact me directly at janvieracevedo912@gmail.com. You can find my github profile at [github.com/JanvierB1](https://github.com/JanvierB1/)
+If you have any questions feel free to contact me directly at janvieracevedo912@gmail.com. You can find my github profile at [github.com/JanvierB1](https://github.com/JanvierB1/)
