@@ -69,7 +69,7 @@ ${testing}
 ${backticks}
 ___
 ## Questions
-If you have any questions feel free tp contact me directly at ${email}. You can find my github profile at [github.com/${github}](https://github.com/${github}/)
+If you have any questions feel free to contact me directly at ${email}. You can find my github profile at [github.com/${github}](https://github.com/${github}/)
 `;
 }
 
